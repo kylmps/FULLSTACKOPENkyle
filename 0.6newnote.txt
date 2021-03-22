@@ -1,0 +1,6 @@
+browser->server: HTTP POST is sent (new_notes_spa.json)
+server-->browser: The server responds with HTTP status code 201.
+
+note over browser:
+I did it
+end note
