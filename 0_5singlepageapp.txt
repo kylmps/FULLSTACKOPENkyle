@@ -1,0 +1,11 @@
+browser->server: five HTTP requests are sent (spa, main.css, spa.js, data.json, favicon.ico)
+server-->browser: The server responds with HTTP status code 200 to all requests.
+server-->browser: spa.txt
+server-->browser: main.css
+server-->browser: spa.js
+server-->browser: data.json
+server-->browser: favicon.ico
+
+note over browser:
+I did it
+end note
